@@ -1,0 +1,6 @@
+dbus-next
+PyGObject
+dbus-python
+pyautogui 
+opencv-python 
+pillow
